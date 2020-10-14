@@ -1,0 +1,11 @@
+CS456 A3: P2P
+
+The assigment was completed with python.
+The bash files peer.sh and tracker call foreward to the python scripts in the code/ directory (meaning they must be ran from this directory.
+They are called as expected: ./peer <IP> <PORT> <MIN_TIME>; ./tracker
+
+Multiple copies were tested in MC3007 lab using the large text files from the previous assignment, with perfect copied results.
+
+
+SUBMISSION 2:
+Files were zipped in a parent folder, files are now directly under the archive.
